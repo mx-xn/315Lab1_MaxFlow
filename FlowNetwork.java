@@ -184,11 +184,13 @@ public class FlowNetwork {
      *
      * @param args the command-line arguments
      */
+    /*
     public static void main(String[] args) {
         In in = new In(args[0]);
         FlowNetwork G = new FlowNetwork(in);
         StdOut.println(G);
     }
+    */
 
 }
 

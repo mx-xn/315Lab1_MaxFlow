@@ -194,10 +194,12 @@ public class FlowEdge {
      *
      * @param args the command-line arguments
      */
+    /*
     public static void main(String[] args) {
         FlowEdge e = new FlowEdge(12, 23, 4.56);
         StdOut.println(e);
     }
+    */
 
 }
 
